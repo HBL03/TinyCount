@@ -1,0 +1,10 @@
+torch
+torchvision
+tensorboardX
+tensorboard
+easydict
+pandas
+numpy
+scipy
+matplotlib
+py-cpuinfo
